@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c6328e-499f-401e-ab8d-f269377c5689" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/styles/bs/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/styles/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AddPost/AddPostCol.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AdminMenu/AdminPanel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AdminMenu/ArticlesPanel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AdminMenu/CategoryPanel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AdminMenu/PostAdminPreview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AlertEmailConfirm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Article/ArcitleBody.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Article/ArticleTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryPosts/CategoryPosts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryPosts/HubsBySelectedCategory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryPosts/ListPostPreviews.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryPosts/PostPreview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/InfoContributionsByCategory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/LoginForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ProfileForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/RegistrationForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserProfile/InfoColumn.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserProfile/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserProfile/Publications.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/AddPost.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Admin/AdminMenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Admin/ArticlesPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Admin/CategoriesPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Categories.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/ListPosts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Post.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Registration.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/UserProfile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Habr" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1ax1EtFJLzPGwzRFSpj6FqVNS5k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="G:\JavaProjects\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\LEARN\Habr\client\public\styles" />
+      <recent name="G:\LEARN\Habr" />
+      <recent name="G:\LEARN\Habr\client\public\fonts" />
+      <recent name="G:\LEARN\Habr\models" />
+      <recent name="G:\LEARN\Habr\routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\LEARN\Habr\client\src\views\Admin" />
+      <recent name="G:\LEARN\Habr\https" />
+      <recent name="G:\LEARN\Habr" />
+      <recent name="G:\LEARN\Habr\config" />
+      <recent name="G:\LEARN\Habr\client\public\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c6328e-499f-401e-ab8d-f269377c5689" name="Default Changelist" comment="" />
+      <created>1587662323858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587662323858</updated>
+      <workItem from="1587662335093" duration="83000" />
+      <workItem from="1587662530955" duration="14747000" />
+      <workItem from="1587726078138" duration="7049000" />
+      <workItem from="1587757887633" duration="7864000" />
+      <workItem from="1587804976014" duration="22407000" />
+      <workItem from="1587938250250" duration="6491000" />
+      <workItem from="1587995679910" duration="15000000" />
+      <workItem from="1588085231611" duration="31736000" />
+      <workItem from="1588338250606" duration="24668000" />
+      <workItem from="1588435348988" duration="17172000" />
+      <workItem from="1588534864135" duration="24947000" />
+      <workItem from="1589126150267" duration="34518000" />
+      <workItem from="1589365168342" duration="9566000" />
+      <workItem from="1589385060457" duration="3666000" />
+      <workItem from="1589395280453" duration="9953000" />
+      <workItem from="1589580016657" duration="2788000" />
+      <workItem from="1589640799064" duration="3325000" />
+      <workItem from="1589723242160" duration="578000" />
+      <workItem from="1589800578103" duration="15013000" />
+      <workItem from="1589824267248" duration="17488000" />
+      <workItem from="1589883388435" duration="20222000" />
+      <workItem from="1590225576390" duration="25296000" />
+      <workItem from="1590444882127" duration="6961000" />
+      <workItem from="1590575055526" duration="13845000" />
+      <workItem from="1590691025404" duration="50156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
